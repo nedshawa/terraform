@@ -15,5 +15,5 @@ variable "sql_admin" {
 
 variable "sql_password" {
   description = "The administrator password of the SQL Server."
-  default = "admin123"
+  default = "admin123acc123"
 }
