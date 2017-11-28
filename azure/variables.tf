@@ -10,7 +10,7 @@ variable "location" {
 
 variable "sql_admin" {
   description = "The administrator username of the SQL Server."
-  default = "admin"
+  default = "ned"
 }
 
 variable "sql_password" {
